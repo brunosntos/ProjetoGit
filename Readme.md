@@ -1,1 +1,1 @@
-Primeira utilizacao do Git
+Primeira utilização do Git
